@@ -1,0 +1,127 @@
+{
+  "date": "Tuesday, June 2, 2026",
+  "window_label": "May – early June 2026",
+  "at_a_glance": {
+    "whats_new": "On May 27, Connecticut's Gov. Lamont signed twin bills — SB 5, one of the broadest state AI laws yet, and SB 4, which adds a data-broker registry, a universal deletion mechanism, and a surveillance-pricing ban.",
+    "ongoing": "The federal preemption fight over state AI laws continues: the December EO and its DOJ litigation task force are live, but Congress again declined to attach an AI moratorium to the 2026 defense bill.",
+    "on_the_horizon": "Louisiana's SB 386 cleared the legislature May 21 and awaits the governor — poised to make Louisiana the next comprehensive-privacy state, effective Jan. 1, 2027."
+  },
+  "calendar": {
+    "window": "Deadlines within 90 days · June 2 – Aug. 31, 2026",
+    "deadlines": [
+      {
+        "date": "Jul 1, 2026",
+        "jurisdiction": "Connecticut",
+        "impacted": "Controllers subject to the CTDPA (amendment also expands who is covered).",
+        "action": "Update privacy notices to disclose whether personal data is collected, used, or sold to train large language models (first such mandate in the US); revised profiling opt-out, sensitive-data, and minors' rules also take effect.",
+        "statute": [{"label": "Public Act 25-113", "url": "https://www.cga.ct.gov/2025/act/pa/pdf/2025PA-00113-R00SB-01295-PA.pdf"}],
+        "analysis": {"label": "Wiley", "url": "https://www.wiley.law/alert-Major-Changes-to-Connecticut-Consumer-Privacy-Law-Will-Take-Effect-July-1-2026"}
+      },
+      {
+        "date": "Jul 1, 2026",
+        "jurisdiction": "Arkansas",
+        "impacted": "Operators of online services directed at, or with actual knowledge they collect data from, Arkansas children (≤12) or teens (13–16).",
+        "action": "Stop targeted advertising to children and teens, obtain parental consent (children) or teen-or-parent consent (teens), and provide notice plus deletion, access, and correction rights.",
+        "statute": [{"label": "HB 1717 (ACTOPPA)", "url": "https://arkleg.state.ar.us/Bills/Detail?id=hb1717&ddBienniumSession=2025%2F2025R"}],
+        "analysis": {"label": "WilmerHale", "url": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20250521-arkansas-online-privacy-act-expands-privacy-protections-for-children-and-teens"}
+      },
+      {
+        "date": "Jul 1, 2026",
+        "jurisdiction": "Utah",
+        "impacted": "Controllers subject to the UCPA ($25M+ revenue and 100k+ consumers, or 50% of revenue from sales and 25k+ consumers).",
+        "action": "Honor consumers' new right to correct inaccurate personal data within 45 days; build a correction intake and verification step into existing rights-request workflows.",
+        "statute": [{"label": "UCPA amendment (HB 418)", "url": "https://www.icemiller.com/thought-leadership/state-privacy-law-updates-july-2026-connecticut-arkansas-utah"}],
+        "analysis": {"label": "Bass, Berry & Sims", "url": "https://www.bassberry.com/news/slalom-through-sensitive-data-utah-skis-into-consumer-privacy-protection/"}
+      },
+      {
+        "date": "Aug 1, 2026",
+        "jurisdiction": "California",
+        "impacted": "Registered data brokers doing business in California.",
+        "action": "Begin processing DROP deletion requests: access the platform at least every 45 days, delete matched records, suppress future data, and report status — with $200/day-per-consumer penalties for failures.",
+        "statute": [
+          {"label": "Delete Act (SB 362)", "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB362"},
+          {"label": "CalPrivacy guidance", "url": "https://privacy.ca.gov/data-brokers/"}
+        ],
+        "analysis": {"label": "Clark Hill", "url": "https://www.clarkhill.com/news-events/news/is-your-business-a-data-broker-californias-drop-goes-live-and-calprivacy-continues-to-enforce-delete-act/"}
+      }
+    ]
+  },
+  "sections": {
+    "state_laws": [
+      {
+        "title": "Connecticut enacts SB 5 (AI) and SB 4 (privacy / data brokers)",
+        "url": "https://iapp.org/news/a/notable-ai-privacy-bills-hit-finish-line-in-illinois-connecticut-and-new-york",
+        "publisher": "IAPP",
+        "meta": "signed May 27, 2026 · effective Oct. 2026 – Jan. 2028",
+        "tags": ["Privacy", "AI"],
+        "must_read": true,
+        "summary": "The most consequential state package this cycle: SB 5 is a broad AI law and SB 4 overhauls Connecticut's privacy regime and data-broker rules.",
+        "toggle": "SB 5 creates new duties for AI developers and deployers — frontier-model transparency, chatbot disclosure, employment automated-decision notices, and provenance metadata for large generative-AI providers — plus minors' protections on recommender systems. SB 4 newly requires any business that sells or licenses brokered personal data to register with the CT Department of Consumer Protection, honor a single universal deletion request that propagates to all registered brokers, and stop surveillance pricing. Map your AI and data-sharing activities now against the phased deadlines."
+      },
+      {
+        "title": "Colorado repeals and replaces its landmark AI Act (SB 26-189)",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/05/colorado-governor-signs-sb-189",
+        "publisher": "Holland & Knight",
+        "meta": "signed May 14, 2026 · effective Jan. 1, 2027",
+        "tags": ["AI"],
+        "must_read": false,
+        "summary": "Gov. Polis signed a rewrite that scraps the 2024 Act's \"high-risk system\" model in favor of a lighter \"automated decision-making technology\" framework.",
+        "toggle": "The new law eliminates the original Act's three heaviest obligations — the duty of reasonable care to prevent algorithmic discrimination, mandatory risk-management programs, and annual impact assessments. In their place, deployers of \"covered ADMT\" must give consumers pre-use notice, issue a post-adverse-outcome disclosure with a path to human review, and keep records for three years. It also voids contract clauses that indemnify a party for its own discriminatory acts, so vendor AI agreements should be reviewed before the Jan. 1, 2027 effective date."
+      },
+      {
+        "title": "Louisiana passes a comprehensive privacy bill (SB 386)",
+        "url": "https://www.keanmiller.com/insights/blog/intellectual-property-law/louisianas-comprehensive-data-privacy-law-to-head-to-the-governors-desk-what-businesses-need-to-know-about-senate-bill-386/",
+        "publisher": "Kean Miller",
+        "meta": "sent to governor May 21, 2026 · effective Jan. 1, 2027 if signed",
+        "tags": ["Privacy"],
+        "must_read": false,
+        "summary": "A familiar comprehensive privacy framework that would add Louisiana to the roughly two dozen states with such laws.",
+        "toggle": "If signed, the Act grants consumers rights to access, correct, delete, and port their data and to opt out of targeted advertising and data sales. It applies to businesses meeting any of three thresholds — $25M in revenue, processing 75,000+ consumers, or deriving 50%+ of revenue from selling personal data — so already-compliant multistate businesses will mostly extend existing programs rather than build new ones."
+      }
+    ],
+    "enforcement": [
+      {
+        "title": "California secures record $12.75M CCPA settlement with General Motors",
+        "url": "https://privacy.ca.gov/2026/05/when-it-comes-to-data-privacy-consumers-must-be-in-the-drivers-seat-attorney-general-bonta-partners-secure-12-75-million-general-motors-privacy-settlement/",
+        "publisher": "California Dept. of Justice / CalPrivacy",
+        "meta": "announced May 8, 2026",
+        "tags": [],
+        "must_read": true,
+        "summary": "The AG, county DAs, and the CPPA resolved claims that GM sold OnStar driving and precise-geolocation data to LexisNexis and Verisk without adequate notice or consent — the largest CCPA penalty to date.",
+        "toggle": "This is the first enforcement built on the CCPA's 2023 data-minimization and purpose-limitation rules, signaling that regulators will treat over-collection and repurposing as standalone violations — not just notice failures. Businesses should collect and retain only what a disclosed purpose requires, give clear notice before sharing data with third parties or brokers, and avoid holding data for later resale. GM must also stop selling driving data to consumer reporting agencies for five years and delete retained data, a template for the injunctive terms regulators will now seek."
+      },
+      {
+        "title": "California ramps up enforcement of opt-out and GPC rights",
+        "url": "https://www.jdsupra.com/legalnews/california-ramps-up-enforcement-of-4151566/",
+        "publisher": "Potomac Law Group (via JD Supra)",
+        "meta": "",
+        "tags": [],
+        "must_read": false,
+        "summary": "A signal more than a single action: the AG and CPPA are pressing businesses on honoring opt-out preference signals and deletion requests.",
+        "toggle": "No new statute — this is a shift in enforcement priority toward whether businesses actually operationalize existing CCPA/CPRA rights. The practical requirement is to treat Global Privacy Control as a valid opt-out, ensure it propagates to ad and analytics partners, and process deletion and opt-out requests promptly; sites that ignore GPC are now the focus of investigative sweeps."
+      }
+    ],
+    "federal": [
+      {
+        "title": "Federal AI preemption push: moratorium fails in NDAA, but the EO and DOJ task force press on",
+        "url": "https://statescoop.com/state-ai-law-moratorium-omitted-2026-defense-bill-trump-eo/",
+        "publisher": "StateScoop",
+        "meta": "EO signed Dec. 11, 2025 · DOJ task force operational Jan. 10, 2026",
+        "tags": [],
+        "must_read": true,
+        "summary": "Congress again left a state-AI-law moratorium out of the 2026 defense bill, so preemption is advancing through the executive branch instead.",
+        "toggle": "No federal statute has been enacted, but a DOJ AI Litigation Task Force is now operational and chartered to challenge state AI laws (a developer's suit against Colorado's law, joined by DOJ, is already pending), and Commerce is reviewing state laws with BEAD broadband funds as leverage. For companies this means no new direct obligations yet, but real uncertainty — track which state AI requirements DOJ targets and avoid over-engineering compliance to laws that may be enjoined."
+      },
+      {
+        "title": "FTC compliance clocks: updated COPPA Rule and TAKE IT DOWN Act deadlines hit",
+        "url": "https://www.womblebonddickinson.com/us/insights/alerts/overview-ftcs-2026-childrens-privacy-focus-expect-ongoing-if-not-more-attention",
+        "publisher": "Womble Bond Dickinson",
+        "meta": "",
+        "tags": [],
+        "must_read": false,
+        "summary": "Two FTC-enforced federal deadlines just passed: the amended COPPA Rule and the TAKE IT DOWN Act's platform takedown obligations.",
+        "toggle": "The amended COPPA Rule expands \"personal information\" to include biometric and government identifiers and requires separate verifiable parental consent before disclosing children's data to third parties for targeted advertising. The TAKE IT DOWN Act now obligates platforms to remove flagged nonconsensual intimate imagery on victim notice. Both compliance dates (Apr. 22 and May 19, 2026) have arrived and the FTC has named them 2026 enforcement priorities, so covered operators should already have consent flows and a takedown process live."
+      }
+    ]
+  }
+}
